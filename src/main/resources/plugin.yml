@@ -1,0 +1,9 @@
+name: ArmorEffects
+version: '${project.version}'
+main: com.github.bfabri.armoreffects.ArmorEffects
+authors: [ Fabri ]
+api-version: 1.13
+description: Armor Effects Perfect for HCF
+commands:
+  armoreffect:
+    aliases: [ "ae" ]
