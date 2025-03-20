@@ -16,7 +16,7 @@
             "url":             "http://www.raspbian.org/",
             "group":           "General",
             "download_size":   1193728204,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/os.json",
+            "os_info":         "https://sourceforge.net/projects/ffgfgf/files/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/raspios_arm64.png",
             "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/marketing.tar",
