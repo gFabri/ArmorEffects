@@ -2,7 +2,7 @@
   "os_list": [
         {
             "os_name":	    "raspios_arm64",
-            "description":  "A 64-bit port of Debian with the Raspberry Pi desktop",
+            "description":  "A 64-bit port of Debian with the Raspberry Pi desktop2",
             "release_date": "2024-10-28",
             "version": "bookworm",
             "supported_models": [
